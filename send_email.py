@@ -6,10 +6,10 @@ def send_email(message):
     host = "127.0.0.1"
     port = 1025
 
-    username = "noonebot13@proton.me"
-    password = "1100##Pool"
+    username = "SENDER_EMAIL"
+    password = "SENDER_PASSWORD"
 
-    receiver = "shubham92895@gmail.com"
+    receiver = "RECEIVER_EMAIL"
     context = ssl.create_default_context()
 
     with smtplib.SMTP_SSL(host, port, context=context) as server:
