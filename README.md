@@ -61,3 +61,6 @@ Your Name -Shubham Lagad
 
 ### Acknowledgments
 News API for providing the news data.
+
+### Adtional Resources
+[Project details]( https://flat-gram-96b.notion.site/Portfolio-Projects-SRL-83d36d9c198b409b8ec6a798b2df68d4?p=a25f1bf054b5451eb41ba6e038c31411&pm=c)
